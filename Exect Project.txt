@@ -1,0 +1,4 @@
+1.- cmd-> mongod
+2.- fronted -> npm run dev
+	cd client
+3.- backend -> npm run dev
